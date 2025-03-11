@@ -38,7 +38,7 @@
 
 ###
 
-<p align="left">I'm Haytra Davia from Bekasi<br><br>- 📚 I'm currently learning House<br>- ⚡ In my free time I learn a language that I don't understand</p>
+<p align="left">I'm Anazzzz from Magelang<br><br>- 📚 I'm currently learning House<br>- ⚡ In my free time I learn a language that I don't understand</p>
 
 ###
 ###
